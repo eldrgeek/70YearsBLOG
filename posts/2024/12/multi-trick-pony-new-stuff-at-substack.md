@@ -1,0 +1,8 @@
+---
+title: "Multi Trick Pony: New stuff at Substack"
+subtitle: "Financial Chart"
+published_at: "2024-12-18T00:01:11.000Z"
+substack_url: "https://70yearswtf.substack.com/p/multi-trick-pony-new-stuff-at-substack"
+excerpt: "I haven’t been posting anything on Substack for a while. While trying to re-reboot myself I discovered a bunch of new stuff you can do with Substack. PollsYippee! I can create polls."
+---
+I haven’t been posting anything on Substack for a while. While trying to re-reboot myself I discovered a bunch of new stuff you can do with Substack. PollsYippee! I can create polls. Custom ButtonsWow! I can make a custom botton.Click the custom button!!.Polls about Custom ButtonsI can combine these two features and do this:CodeYou can write code. This is about as lame as you can get.async def handle_oauth_flow(config): # Start localtunnel logger.info("Starting localtunnel...") lt_process = subprocess.Popen( ['lt', '--port', str(DEFAULT_PORT),'--subdomain', str(DEFAULT_DOMAIN)], stdout=subprocess.PIPE, stderr=subprocess.PIPE ) # Wait for localtunnel to start and get the URL time.sleep(2) lt_url = None while lt_process.poll() is None: output = lt_process.stdout.readline().decode().strip() if 'your url is: ' in output: lt_url = output.split('your url is: ')[1] break if not lt_url: logger.error("Failed to start localtunnel") return False config.lt_url = lt_urlPoetryIn case I need to write a poem where spacing matters I can do this.Text within this block will maintain its original spacing when publishedRoses are red Violets are blue This preserves spacing Whoop dee doo!!LateXThis should be called LameteXFinancial ChartFor those interested in financial charts, here’s oneCreated with TradingViewAnd finally
