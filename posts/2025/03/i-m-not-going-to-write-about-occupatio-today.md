@@ -1,0 +1,8 @@
+---
+title: "I'm not going to write about occupatio today"
+subtitle: "I’m also not going to write about paralepsis."
+published_at: "2025-03-14T22:32:37.000Z"
+substack_url: "https://70yearswtf.substack.com/p/im-not-going-to-write-about-occupatio"
+excerpt: "I’m also not going to write about paralepsis.This will be a short post because it will only be about how I’m not going to write about those two words."
+---
+I’m also not going to write about paralepsis.This will be a short post because it will only be about how I’m not going to write about those two words.Today, my friend Jan pointed out that I was using occupatio in a text I’d written her.Of course, I looked it up1. Sure enough! I had been using occupatio.And I found out that occupatio is also called paralepsis.You can imagine my surprise when I learned that for years, I have written and spoken occupationally or proleptically without knowing it. Indeed you’ll have to imagine my surprise because I’m not going to write about it.But it reminded me of a story I had once heard about a man who spoke prose but did not know it. I didn’t remember who that man was, so I looked that up, too2. And I found out. But I’m not going to write about that, either.“What are you going to write about, then?” Asks an imaginary reader.“I don’t know,” I answer. “I’ve written enough about not writing, so maybe I’ll write about not posting it.”3And I’m not going to remind you to subscribe,so there’s no reason for me to explain how to do it.1Which you can also do.2As you can do, also.3Or maybe not.
